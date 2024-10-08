@@ -35,9 +35,9 @@ I made sure all the file passed the Validator check, Iused one screenshot to avo
 Styling with CSS was somewhat challenging but I leanred a lot of things.
 
 ## Screenshots 
-- [Homepage](screenshot/homepage.png)
-- [Homepage/about Us](screenshot/aboutpage.png)
-- [sign in page](screenshot/signinpage.png)
-- [register page](screenshot/Registerpage.png) 
-- [Products page](screenshot/productspage.png)
-- [Checkout page](screenshot/checkoutpage.png)
+- ![Homepage](screenshot/homepage.png)
+- ![Homepage/about Us](screenshot/aboutpage.png)
+- ![sign in page](screenshot/signinpage.png)
+- ![register page](screenshot/Registerpage.png) 
+- ![Products page](screenshot/productspage.png)
+- ![Checkout page](screenshot/checkoutpage.png)
